@@ -22,7 +22,7 @@ td {
 .grey {
   color: #333;
   background-color: #f2f2f2;
-  bolder: solid 1px #666;
+  border: solid 1px #666;
   border-radius: 8px;
 }
 
